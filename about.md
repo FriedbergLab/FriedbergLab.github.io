@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+College of Veterinary Medicine
+Iowa State University
+Ames, IA, USA
 
 ### More Information
 
