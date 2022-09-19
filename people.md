@@ -37,6 +37,8 @@ permalink: /people/
 + Andrew Oberlin
 + David Ream
 + Ashwani Kumar
++ David Vincent
++ Ryan Kelley
 
 ### Former lab employees:
 
