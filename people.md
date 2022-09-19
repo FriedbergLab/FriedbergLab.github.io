@@ -15,7 +15,7 @@ permalink: /people/
 #### An Phan (with Claus Kadelka)
 
 
-## Alumni
+## Lab alumni
 
 ### Postdocs:
 
