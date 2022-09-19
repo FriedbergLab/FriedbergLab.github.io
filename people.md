@@ -10,9 +10,9 @@ permalink: /people/
 
 #### Parnal Joshi
 
-#### Priyanka Banerjee (with Oliver Eulenstein)
+#### Priyanka Banerjee (with Dr. Oliver Eulenstein)
 
-#### An Phan (with Claus Kadelka)
+#### An Phan (with Dr. Claus Kadelka)
 
 
 ## Lab alumni
