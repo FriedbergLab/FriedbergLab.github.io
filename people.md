@@ -4,14 +4,14 @@ title: Lab Members
 permalink: /people/
 ---
 
-### Iddo Friedberg
+#### Iddo Friedberg
 
-### Henri Chung
+#### Henri Chung
 
-### Parnal Joshi
+#### Parnal Joshi
 
-### Priyanka Banerjee (with Oliver Eulenstein)
+#### Priyanka Banerjee (with Oliver Eulenstein)
 
 
-### An Phan (with Claus Kadelka)
+#### An Phan (with Claus Kadelka)
 
