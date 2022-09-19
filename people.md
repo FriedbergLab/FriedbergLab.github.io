@@ -21,7 +21,7 @@ permalink: /people/
 
 + Xiao Hu
 
-+ Chrstine Foxx
++ Christine Foxx
 
 + Ataur Katebi 
 
