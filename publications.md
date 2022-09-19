@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ### Lab Publications
-
+###### 2022
 de Crecy-Lagard V, Amorin de Hegedus R, Arighi C, Babor J, Bateman A, Blaby I, Blaby-Haas C, Bridge AJ, Burley SK, Cleveland S, Colwell LJ, Conesa A, Dallago C, Danchin A, de Waard A, Deutschbauer A, Dias R, Ding Y, Fang G, **Friedberg I**, Gerlt J, Goldford J, Gorelik M, Gyori BM, Henry C, Hutinet G, Jaroch M, Karp PD, Kondratova L, Lu Z, Marchler-Bauer A, Martin MJ, McWhite C, Moghe GD, Monaghan P, Morgat A, Mungall CJ, Natale DA, Nelson WC, O'Donoghue S, Orengo C, O'Toole KH, Radivojac P, Reed C, Roberts RJ, Rodionov D, Rodionova IA, Rudolf JD, Saleh L, Sheynkman G, Thibaud-Nissen F, Thomas PD, Uetz P, Vallenet D, Carter EW, Weigele PR, Wood V, Wood-Charlson EM, Xu J
 A roadmap for the functional annotation of protein families: a community perspective.
 Database (Oxford). 2022 Aug 12;2022. pii: 6663924. doi: 10.1093/database/baac062.
@@ -20,7 +20,7 @@ Kilpatrick AM, Rahman F, Anjum A, Shome S, Andalib KMS, Banik S, Chowdhury SF, C
 Characterizing domain-specific open educational resources by linking ISCB Communities of Special Interest to Wikipedia.
 Bioinformatics. 2022 Jun 24;38(Suppl 1):i19-i27. doi: 10.1093/bioinformatics/btac236.
 
-
+##### 2021 
 Ramsey J, McIntosh B, Renfro D, Aleksander SA, LaBonte S, Ross C, Zweifel AE, Liles N, Farrar S, Gill JJ, Erill I, Ades S, Berardini TZ, Bennett JA, Brady S, Britton R, Carbon S, Caruso SM, Clements D, Dalia R, Defelice M, Doyle EL, **Friedberg I**, Gurney SMR, Hughes L, Johnson A, Kowalski JM, Li D, Lovering RC, Mans TL, McCarthy F, Moore SD, Murphy R, Paustian TD, Perdue S, Peterson CN, Pruss BM, Saha MS, Sheehy RR, Tansey JT, Temple L, Thorman AW, Trevino S, Vollmer AC, Walbot V, Willey J, Siegele DA, Hu JC
 Crowdsourcing biocuration: The Community Assessment of Community Annotation with Ontologies (CACAO).
 PLoS Comput Biol. 2021 Oct 28;17(10):e1009463. doi: 10.1371/journal.pcbi.1009463. eCollection 2021 Oct.
@@ -35,7 +35,7 @@ Mangravite L, Mooney SD, **Friedberg I**, Guinney J
 Establishing the reliability of algorithms.
 Pac Symp Biocomput. 2021;26:341-345.
 
-
+##### 2020
 Nguyen HN, Markin A, **Friedberg I**, Eulenstein O
 Finding orthologous gene blocks in bacteria: the computational hardness of the problem and novel methods to address it.
 Bioinformatics. 2020 Dec 30;36(Suppl_2):i668-i674. doi: 10.1093/bioinformatics/btaa794.
@@ -46,6 +46,7 @@ Unraveling a Tangled Skein: Evolutionary Analysis of the Bacterial Gibberellin B
 mSphere. 2020 Jun 3;5(3). pii: 5/3/e00292-20. doi: 10.1128/mSphere.00292-20.
 
 
+##### 2019
 Fields FR, Freed SD, Carothers KE, Hamid MN, Hammers DE, Ross JN, Kalwajtys VR, Gonzalez AJ, Hildreth AD, **Friedberg I**, Lee SW
 Novel antimicrobial peptide discovery using machine learning and biophysical selection of minimal bacteriocin domains.
 Drug Dev Res. 2020 Feb;81(1):43-51. doi: 10.1002/ddr.21601. Epub 2019 Sep 4.
@@ -96,6 +97,7 @@ MetaMiner: A Scalable Peptidogenomics Approach for Discovery of Ribosomal Peptid
 Cell Syst. 2019 Dec 18;9(6):600-608.e4. doi: 10.1016/j.cels.2019.09.004. Epub 2019 Oct 16.
 
 
+##### 2018
 Zhou N, Siegel ZD, Zarecor S, Lee N, Campbell DA, Andorf CM, Nettleton D, Lawrence-Dill CJ, Ganapathysubramanian B, Kelly JW, **Friedberg I**
 Crowdsourcing image analysis for plant phenomics to generate ground truth data for machine learning.
 PLoS Comput Biol. 2018 Jul 30;14(7):e1006337. doi: 10.1371/journal.pcbi.1006337. eCollection 2018 Jul.
@@ -106,11 +108,13 @@ Maize GO Annotation-Methods, Evaluation, and Review (maize-GAMER).
 Plant Direct. 2018 Apr 11;2(4):e00052. doi: 10.1002/pld3.52. eCollection 2018 Apr.
 
 
+##### 2017
 **Friedberg I**, Radivojac P
 Community-Wide Evaluation of Computational Function Prediction.
 Methods Mol Biol. 2017;1446:133-146. doi: 10.1007/978-1-4939-3743-1_10.
 
 
+##### 2016
 Jiang Y, Oron TR, Clark WT, Bankapur AR, D'Andrea D, Lepore R, Funk CS, Kahanda I, Verspoor KM, Ben-Hur A, Koo da CE, Penfold-Brown D, Shasha D, Youngs N, Bonneau R, Lin A, Sahraeian SM, Martelli PL, Profiti G, Casadio R, Cao R, Zhong Z, Cheng J, Altenhoff A, Skunca N, Dessimoz C, Dogan T, Hakala K, Kaewphan S, Mehryary F, Salakoski T, Ginter F, Fang H, Smithers B, Oates M, Gough J, Toronen P, Koskinen P, Holm L, Chen CT, Hsu WL, Bryson K, Cozzetto D, Minneci F, Jones DT, Chapman S, Bkc D, Khan IK, Kihara D, Ofer D, Rappoport N, Stern A, Cibrian-Uhalte E, Denny P, Foulger RE, Hieta R, Legge D, Lovering RC, Magrane M, Melidoni AN, Mutowo-Meullenet P, Pichler K, Shypitsyna A, Li B, Zakeri P, ElShal S, Tranchevent LC, Das S, Dawson NL, Lee D, Lees JG, Sillitoe I, Bhat P, Nepusz T, Romero AE, Sasidharan R, Yang H, Paccanaro A, Gillis J, Sedeno-Cortes AE, Pavlidis P, Feng S, Cejuela JM, Goldberg T, Hamp T, Richter L, Salamov A, Gabaldon T, Marcet-Houben M, Supek F, Gong Q, Ning W, Zhou Y, Tian W, Falda M, Fontana P, Lavezzo E, Toppo S, Ferrari C, Giollo M, Piovesan D, Tosatto SC, Del Pozo A, Fernandez JM, Maietta P, Valencia A, Tress ML, Benso A, Di Carlo S, Politano G, Savino A, Rehman HU, Re M, Mesiti M, Valentini G, Bargsten JW, van Dijk AD, Gemovic B, Glisic S, Perovic V, Veljkovic V, Veljkovic N, Almeida-E-Silva DC, Vencio RZ, Sharan M, Vogel J, Kansakar L, Zhang S, Vucetic S, Wang Z, Sternberg MJ, Wass MN, Huntley RP, Martin MJ, O'Donovan C, Robinson PN, Moreau Y, Tramontano A, Babbitt PC, Brenner SE, Linial M, Orengo CA, Rost B, Greene CS, Mooney SD, **Friedberg I**, Radivojac P
 An expanded evaluation of protein function prediction methods shows an improvement in accuracy.
 Genome Biol. 2016 Sep 7;17(1):184. doi: 10.1186/s13059-016-1037-6.
