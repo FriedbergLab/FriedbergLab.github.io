@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 
 ### Lab Publications
-###### 2022
+
 de Crecy-Lagard V, Amorin de Hegedus R, Arighi C, Babor J, Bateman A, Blaby I, Blaby-Haas C, Bridge AJ, Burley SK, Cleveland S, Colwell LJ, Conesa A, Dallago C, Danchin A, de Waard A, Deutschbauer A, Dias R, Ding Y, Fang G, **Friedberg I**, Gerlt J, Goldford J, Gorelik M, Gyori BM, Henry C, Hutinet G, Jaroch M, Karp PD, Kondratova L, Lu Z, Marchler-Bauer A, Martin MJ, McWhite C, Moghe GD, Monaghan P, Morgat A, Mungall CJ, Natale DA, Nelson WC, O'Donoghue S, Orengo C, O'Toole KH, Radivojac P, Reed C, Roberts RJ, Rodionov D, Rodionova IA, Rudolf JD, Saleh L, Sheynkman G, Thibaud-Nissen F, Thomas PD, Uetz P, Vallenet D, Carter EW, Weigele PR, Wood V, Wood-Charlson EM, Xu J
 A roadmap for the functional annotation of protein families: a community perspective.
 Database (Oxford). 2022 Aug 12;2022. pii: 6663924. doi: 10.1093/database/baac062.
@@ -20,7 +20,6 @@ Kilpatrick AM, Rahman F, Anjum A, Shome S, Andalib KMS, Banik S, Chowdhury SF, C
 Characterizing domain-specific open educational resources by linking ISCB Communities of Special Interest to Wikipedia.
 Bioinformatics. 2022 Jun 24;38(Suppl 1):i19-i27. doi: 10.1093/bioinformatics/btac236.
 
-##### 2021 
 Ramsey J, McIntosh B, Renfro D, Aleksander SA, LaBonte S, Ross C, Zweifel AE, Liles N, Farrar S, Gill JJ, Erill I, Ades S, Berardini TZ, Bennett JA, Brady S, Britton R, Carbon S, Caruso SM, Clements D, Dalia R, Defelice M, Doyle EL, **Friedberg I**, Gurney SMR, Hughes L, Johnson A, Kowalski JM, Li D, Lovering RC, Mans TL, McCarthy F, Moore SD, Murphy R, Paustian TD, Perdue S, Peterson CN, Pruss BM, Saha MS, Sheehy RR, Tansey JT, Temple L, Thorman AW, Trevino S, Vollmer AC, Walbot V, Willey J, Siegele DA, Hu JC
 Crowdsourcing biocuration: The Community Assessment of Community Annotation with Ontologies (CACAO).
 PLoS Comput Biol. 2021 Oct 28;17(10):e1009463. doi: 10.1371/journal.pcbi.1009463. eCollection 2021 Oct.
@@ -35,7 +34,6 @@ Mangravite L, Mooney SD, **Friedberg I**, Guinney J
 Establishing the reliability of algorithms.
 Pac Symp Biocomput. 2021;26:341-345.
 
-##### 2020
 Nguyen HN, Markin A, **Friedberg I**, Eulenstein O
 Finding orthologous gene blocks in bacteria: the computational hardness of the problem and novel methods to address it.
 Bioinformatics. 2020 Dec 30;36(Suppl_2):i668-i674. doi: 10.1093/bioinformatics/btaa794.
@@ -46,7 +44,7 @@ Unraveling a Tangled Skein: Evolutionary Analysis of the Bacterial Gibberellin B
 mSphere. 2020 Jun 3;5(3). pii: 5/3/e00292-20. doi: 10.1128/mSphere.00292-20.
 
 
-##### 2019
+
 Fields FR, Freed SD, Carothers KE, Hamid MN, Hammers DE, Ross JN, Kalwajtys VR, Gonzalez AJ, Hildreth AD, **Friedberg I**, Lee SW
 Novel antimicrobial peptide discovery using machine learning and biophysical selection of minimal bacteriocin domains.
 Drug Dev Res. 2020 Feb;81(1):43-51. doi: 10.1002/ddr.21601. Epub 2019 Sep 4.
