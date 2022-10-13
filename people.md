@@ -8,6 +8,8 @@ permalink: /people/
 
 #### Henri Chung
 
+My research interests include bacterial protein function, microbiomes, and machine learning methods. I was born and raised in Texas, and my family is from Hong Kong. Outside of research, I like to cook and make plots in R.
+
 #### Parnal Joshi
 
 #### Priyanka Banerjee (with Dr. Oliver Eulenstein)
