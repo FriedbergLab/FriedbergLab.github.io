@@ -6,4 +6,4 @@ permalink: /software/
 
 ## Our software
 
-Stub for softare page.
+Stub for the software page.
