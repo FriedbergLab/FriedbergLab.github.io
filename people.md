@@ -8,7 +8,7 @@ permalink: /people/
 
 #### Henri Chung
 
-![Henri Chung](./images/henri_)
+![Henri Chung](https://raw.githubusercontent.com/FriedbergLab/FriedbergLab.github.io/master/images/henri_headshot4_4.jpg)
 My research interests include bacterial protein function, microbiomes, and machine learning methods. I was born and raised in Texas, and my family is from Hong Kong. Outside of research, I like to cook and make plots in R.
 
 #### Parnal Joshi
