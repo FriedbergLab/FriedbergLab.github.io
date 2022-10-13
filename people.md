@@ -21,6 +21,9 @@ In my spare time (ha!) I enjoy long distance running, old 70's cop shows, spaghe
 My research interests include bacterial protein function, microbiomes, and machine learning methods. I was born and raised in Texas, and my family is from Hong Kong. Outside of research, I like to cook and make plots in R.
 
 #### Parnal Joshi
+![Parnal Joshi](https://raw.githubusercontent.com/FriedbergLab/FriedbergLab.github.io/master/images/parnal_headshot4_4.jpg)
+
+I am a PhD candidate in the Bioinformatics and Computational Biology program. My research interests include protein function, ontologies, and text mining. I am an advocate of open science and reproducible research. In my free time, I enjoy traveling, cooking, and taking care of my 20 houseplants.
 
 #### Priyanka Banerjee (with Dr. Oliver Eulenstein)
 
