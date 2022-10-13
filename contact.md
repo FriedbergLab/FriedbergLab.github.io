@@ -11,7 +11,7 @@ USA
 
 ### How to get here
 
-
+[A nice map](https://vetmed.iastate.edu/about/map-directions) from the College of Veterinary Medicine.
 
 ### Contact us
 
