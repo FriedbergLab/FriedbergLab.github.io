@@ -5,7 +5,7 @@ permalink: /people/
 ---
 
 #### Iddo Friedberg
-![Iddo Friedberg](https://raw.githubusercontent.com/FriedbergLab/FriedbergLab.github.io/master/images/iddo-beard-badass4_4.jpg)
+![Iddo Friedberg](/images/iddo-beard-badass4_4.jpg)
 
 
 
@@ -15,27 +15,27 @@ In my spare time (ha!) I enjoy long distance running, old 70's cop shows, spaghe
 
 #### Henri Chung
 
-<!-- ![Henri Chung](https://raw.githubusercontent.com/FriedbergLab/FriedbergLab.github.io/master/images/henri_headshot4_4.jpg) -->
+
 ![Henri Chung](/images/henri_headshot4_4.jpg)
 
 
 My research interests include bacterial protein function, microbiomes, and machine learning methods. I was born and raised in Texas, and my family is from Hong Kong. Outside of research, I like to cook and make plots in R.
 
 #### Parnal Joshi
-![Parnal Joshi](https://raw.githubusercontent.com/FriedbergLab/FriedbergLab.github.io/master/images/parnal_headshot4_4.jpg)
+![Parnal Joshi](/images/parnal_headshot4_4.jpg)
 
 I am a PhD candidate in the Bioinformatics and Computational Biology program. My research interests include protein function, ontologies, and text mining. I am an advocate of open science and reproducible research. In my free time, I enjoy traveling, cooking, and taking care of my 20 houseplants.
 
 #### Priyanka Banerjee (with Dr. Oliver Eulenstein)
 
-![Priyanka Banerjee](https://raw.githubusercontent.com/FriedbergLab/FriedbergLab.github.io/master/images/priyanka_banerjee4_4.jpg)
+![Priyanka Banerjee](/images/priyanka_banerjee4_4.jpg)
 
 I am a Ph.D. student in the computer science department. I find myself motivated to solve problems in biology and human health. My research interests include genomics, NLP and deep learning. My current research involves identifying genomic islands from whole genome sequences. I would like to expand my research into computational models for metagenomics data. I enjoy dancing (not sure if others enjoy watching me), painting and pointless conversations about life. 
 
 
 #### An Phan (with Dr. Claus Kadelka)
 
-![An Phan](https://raw.githubusercontent.com/FriedbergLab/FriedbergLab.github.io/master/images/an_4_4.jpg)
+![An Phan](/images/an_4_4.jpg)
 
 Ignore me. Do not ignore my genes. #ignoromenot
 Proteome means no protein gets left behind.
