@@ -3,15 +3,17 @@ layout: page
 title: About
 permalink: /about/
 ---
+### Mailing address
 
-College of Veterinary Medicine
-Iowa State University
-Ames, IA, USA
+Iddo Friedberg\
+2118 Veterinary Medicine\
+College of Veterinary Medicine\
+Iowa State University\
+Ames, IA, 50011 USA
 
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+### Getting here
+[Map and Directions](https://vetmed.iastate.edu/about/map-directions)
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+idoerg 'at' iastate.edu
