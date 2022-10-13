@@ -24,6 +24,15 @@ I am a Ph.D. student in the computer science department. I find myself motivated
 
 #### An Phan (with Dr. Claus Kadelka)
 
+![An Phan](https://github.com/FriedbergLab/FriedbergLab.github.io/blob/master/images/an_4_4.jpg)
+
+Ignore me. Do not ignore my genes. #ignoromenot
+Proteome means no protein gets left behind.
+
+I am a graduate student in the Bioinformatics and Computational Biology program working on Gene Ontology annotations to explore the imbalance in the functional study between well-known and lesser-known proteins. I am also interested in genomic sequencing and all sorts of things that could be done from those data.
+
+I love reading, but only crime thrillers, love cooking, but prefer eating someone else's food!
+
 
 ## Lab alumni
 
