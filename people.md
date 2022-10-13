@@ -5,6 +5,13 @@ permalink: /people/
 ---
 
 #### Iddo Friedberg
+![Iddo Friedberg](https://raw.githubusercontent.com/FriedbergLab/FriedbergLab.github.io/master/images/iddo-beard-badass4_4.jpg)
+
+
+
+I am an Associate Professor at the department of Veterinary Microbiology & Preventive Medicine at Iowa State University. I am interested in large scale analyses of protein sequence, structure and function connections, genome evolution, metagenome analysis and computational protein function prediction. I am leading CAFA, the Critical Assessment of Function Annotations, a global community effort to improve our ability to predict protein function from sequence.
+
+In my spare time (ha!) I enjoy long distance running, old 70's cop shows, spaghetti westerns, and embarrassing my kids.
 
 #### Henri Chung
 
