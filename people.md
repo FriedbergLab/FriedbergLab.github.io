@@ -40,9 +40,9 @@ I am a graduate student in the Bioinformatics and Computational Biology program 
 
 I love reading, but only crime thrillers, love cooking, but prefer eating someone else's food!
 
-<p align="center">
-  ## Lab alumni
-</p>
+
+## Lab alumni
+
 
 ### Postdocs:
 
