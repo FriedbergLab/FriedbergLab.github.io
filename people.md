@@ -17,6 +17,11 @@ My research interests include bacterial protein function, microbiomes, and machi
 
 #### Priyanka Banerjee (with Dr. Oliver Eulenstein)
 
+![Priyanka Banerjee](https://github.com/FriedbergLab/FriedbergLab.github.io/blob/master/images/priyanka_banerjee4_4.jpg)
+
+I am a Ph.D. student in the computer science department. I find myself motivated to solve problems in biology and human health. My research interests include genomics, NLP and deep learning. My current research involves identifying genomic islands from whole genome sequences. I would like to expand my research into computational models for metagenomics data. I enjoy dancing (not sure if others enjoy watching me), painting and pointless conversations about life. 
+
+
 #### An Phan (with Dr. Claus Kadelka)
 
 
