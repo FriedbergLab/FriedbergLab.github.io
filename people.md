@@ -13,6 +13,8 @@ I am an Associate Professor at the department of Veterinary Microbiology & Preve
 
 In my spare time (ha!) I enjoy long distance running, old 70's cop shows, spaghetti westerns, and embarrassing my kids.
 
+<a rel="me" href="https://genomic.social/@iddux"></a>
+
 #### Henri Chung
 
 
