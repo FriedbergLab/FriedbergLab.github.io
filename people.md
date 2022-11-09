@@ -11,9 +11,7 @@ permalink: /people/
 
 I am an Associate Professor at the department of Veterinary Microbiology & Preventive Medicine at Iowa State University. I am interested in large scale analyses of protein sequence, structure and function connections, genome evolution, metagenome analysis and computational protein function prediction. I am leading CAFA, the Critical Assessment of Function Annotations, a global community effort to improve our ability to predict protein function from sequence.
 
-In my spare time (ha!) I enjoy long distance running, old 70's cop shows, spaghetti westerns, and embarrassing my kids.
-
-<a rel="me" href="https://genomic.social/@iddux"></a>
+In my spare time (ha!) I enjoy long distance running, old 70's cop shows, spaghetti westerns, and embarrassing my kids. You can follow me on <a rel="me" href="https://genomic.social/@iddux">Mastodon</a> if you are bored. 
 
 #### Henri Chung
 
