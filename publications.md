@@ -7,7 +7,14 @@ permalink: /publications/
 ### Lab Publications
 For a full publication list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=0NEtdwoAAAAJ&view_op=list_works&sortby=pubdate)
 
-+ Ramola R, **Friedberg I**, Radivojac P The field of protein function prediction as viewed by different domain scientists (2022) Bioinformatics Advances 2:1 vbac057 [doi](https://doi.org/10.1093/bioadv/vbac057)
+#### Preprints
+
++ Banerjee P, Eulenstein O, **Friedberg I** Discovering genomic islands in unannotated bacterial genomes using sequence embedding bioRxiv 2022  [doi](https://doi.org/10.1101/2022.08.25.505341)
++   Mahlich Y,  Zhu C, Chung H, Velaga PK, M. Clara de Paolis Kaluza, Radivojac P, **Friedberg I**, Bromberg Y  Rethinking bacterial relationships in light of their molecular abilities biorxiv 2022 [doi](https://www.biorxiv.org/content/10.1101/2022.11.28.518265v1)
+
+#### Peer reviewed
+
++ Ramola R, **Friedberg I**, Radivojac P The field of protein function prediction as viewed by different domain scientists  Bioinformatics Advances 2:1 vbac057 (2022) [doi](https://doi.org/10.1093/bioadv/vbac057)
 
 + de Crecy-Lagard V, Amorin de Hegedus R, Arighi C, Babor J, Bateman A, Blaby I, Blaby-Haas C, Bridge AJ, Burley SK, Cleveland S, Colwell LJ, Conesa A, Dallago C, Danchin A, de Waard A, Deutschbauer A, Dias R, Ding Y, Fang G, **Friedberg I**, Gerlt J, Goldford J, Gorelik M, Gyori BM, Henry C, Hutinet G, Jaroch M, Karp PD, Kondratova L, Lu Z, Marchler-Bauer A, Martin MJ, McWhite C, Moghe GD, Monaghan P, Morgat A, Mungall CJ, Natale DA, Nelson WC, O'Donoghue S, Orengo C, O'Toole KH, Radivojac P, Reed C, Roberts RJ, Rodionov D, Rodionova IA, Rudolf JD, Saleh L, Sheynkman G, Thibaud-Nissen F, Thomas PD, Uetz P, Vallenet D, Carter EW, Weigele PR, Wood V, Wood-Charlson EM, Xu J
 A roadmap for the functional annotation of protein families: a community perspective.
