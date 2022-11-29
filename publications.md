@@ -7,7 +7,7 @@ permalink: /publications/
 ### Lab Publications
 For a full publication list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=0NEtdwoAAAAJ&view_op=list_works&sortby=pubdate)
 
-+ 
++ Ramola R, **Friedberg I**, Radivojac P The field of protein function prediction as viewed by different domain scientists (2022) Bioinformatics Advances 2:1 vbac057 [doi](https://doi.org/10.1093/bioadv/vbac057)
 
 + de Crecy-Lagard V, Amorin de Hegedus R, Arighi C, Babor J, Bateman A, Blaby I, Blaby-Haas C, Bridge AJ, Burley SK, Cleveland S, Colwell LJ, Conesa A, Dallago C, Danchin A, de Waard A, Deutschbauer A, Dias R, Ding Y, Fang G, **Friedberg I**, Gerlt J, Goldford J, Gorelik M, Gyori BM, Henry C, Hutinet G, Jaroch M, Karp PD, Kondratova L, Lu Z, Marchler-Bauer A, Martin MJ, McWhite C, Moghe GD, Monaghan P, Morgat A, Mungall CJ, Natale DA, Nelson WC, O'Donoghue S, Orengo C, O'Toole KH, Radivojac P, Reed C, Roberts RJ, Rodionov D, Rodionova IA, Rudolf JD, Saleh L, Sheynkman G, Thibaud-Nissen F, Thomas PD, Uetz P, Vallenet D, Carter EW, Weigele PR, Wood V, Wood-Charlson EM, Xu J
 A roadmap for the functional annotation of protein families: a community perspective.
