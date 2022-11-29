@@ -9,60 +9,60 @@ For a full publication list, see [Google Scholar](https://scholar.google.com/cit
 
 #### Preprints
 
-+ Banerjee P, Eulenstein O, **Friedberg I** Discovering genomic islands in unannotated bacterial genomes using sequence embedding bioRxiv 2022  [doi](https://doi.org/10.1101/2022.08.25.505341)
-+   Mahlich Y,  Zhu C, Chung H, Velaga PK, M. Clara de Paolis Kaluza, Radivojac P, **Friedberg I**, Bromberg Y  Rethinking bacterial relationships in light of their molecular abilities biorxiv 2022 [doi](https://www.biorxiv.org/content/10.1101/2022.11.28.518265v1)
++ Banerjee P, Eulenstein O, **Friedberg I** Discovering genomic islands in unannotated bacterial genomes using sequence embedding _bioRxiv_ 2022  [doi](https://doi.org/10.1101/2022.08.25.505341)
++   Mahlich Y,  Zhu C, Chung H, Velaga PK, M. Clara de Paolis Kaluza, Radivojac P, **Friedberg I**, Bromberg Y  Rethinking bacterial relationships in light of their molecular abilities _biorxiv_ 2022 [doi](https://www.biorxiv.org/content/10.1101/2022.11.28.518265v1)
 
 #### Peer reviewed
 
-+ Ramola R, **Friedberg I**, Radivojac P The field of protein function prediction as viewed by different domain scientists  Bioinformatics Advances 2:1 vbac057 (2022) [doi](https://doi.org/10.1093/bioadv/vbac057)
++ Ramola R, **Friedberg I**, Radivojac P The field of protein function prediction as viewed by different domain scientists  _Bioinformatics Advances_ 2:1 vbac057 (2022) [doi](https://doi.org/10.1093/bioadv/vbac057)
 
 + de Crecy-Lagard V, Amorin de Hegedus R, Arighi C, Babor J, Bateman A, Blaby I, Blaby-Haas C, Bridge AJ, Burley SK, Cleveland S, Colwell LJ, Conesa A, Dallago C, Danchin A, de Waard A, Deutschbauer A, Dias R, Ding Y, Fang G, **Friedberg I**, Gerlt J, Goldford J, Gorelik M, Gyori BM, Henry C, Hutinet G, Jaroch M, Karp PD, Kondratova L, Lu Z, Marchler-Bauer A, Martin MJ, McWhite C, Moghe GD, Monaghan P, Morgat A, Mungall CJ, Natale DA, Nelson WC, O'Donoghue S, Orengo C, O'Toole KH, Radivojac P, Reed C, Roberts RJ, Rodionov D, Rodionova IA, Rudolf JD, Saleh L, Sheynkman G, Thibaud-Nissen F, Thomas PD, Uetz P, Vallenet D, Carter EW, Weigele PR, Wood V, Wood-Charlson EM, Xu J
 A roadmap for the functional annotation of protein families: a community perspective.
-Database (Oxford). 2022 Aug 12;2022. pii: 6663924. [doi](https://dx.doi.org/10.1093/database/baac062/)
+_Database (OUP)_. 2022 Aug 12;2022. pii: 6663924. [doi](https://dx.doi.org/10.1093/database/baac062/)
 
 
 + Wymore Brand M, Proctor AL, Hostetter JM, Zhou N, **Friedberg I**, Jergens AE, Phillips GJ, Wannemuehler MJ
 Vertical transmission of attaching and invasive E. coli from the dam to neonatal mice predisposes to more severe colitis following exposure to a colitic insult later in life.
-PLoS One. 2022 Apr 5;17(4):e0266005. [doi](https://dx.doi.org/10.1371/journal.pone.0266005)
+_PLoS One_. 2022 Apr 5;17(4):e0266005. [doi](https://dx.doi.org/10.1371/journal.pone.0266005)
 
 
 + Kilpatrick AM, Rahman F, Anjum A, Shome S, Andalib KMS, Banik S, Chowdhury SF, Coombe P, Astroz YC, Douglas JM, Eranti P, Kiran AD, Kumar S, Lim H, Lorenzi V, Lubiana T, Mahmud S, Puche R, Rybarczyk A, Al Sium SM, Twesigomwe D, Zok T, Orengo CA, **Friedberg I**, Kelso JF, Welch L
 Characterizing domain-specific open educational resources by linking ISCB Communities of Special Interest to Wikipedia.
-Bioinformatics. 2022 Jun 24;38(Suppl 1):i19-i27. [doi](https://dx.doi.org/10.1093/bioinformatics/btac236)
+_Bioinformatics_. 2022 Jun 24;38(Suppl 1):i19-i27. [doi](https://dx.doi.org/10.1093/bioinformatics/btac236)
 
 + Ramsey J, McIntosh B, Renfro D, Aleksander SA, LaBonte S, Ross C, Zweifel AE, Liles N, Farrar S, Gill JJ, Erill I, Ades S, Berardini TZ, Bennett JA, Brady S, Britton R, Carbon S, Caruso SM, Clements D, Dalia R, Defelice M, Doyle EL, **Friedberg I**, Gurney SMR, Hughes L, Johnson A, Kowalski JM, Li D, Lovering RC, Mans TL, McCarthy F, Moore SD, Murphy R, Paustian TD, Perdue S, Peterson CN, Pruss BM, Saha MS, Sheehy RR, Tansey JT, Temple L, Thorman AW, Trevino S, Vollmer AC, Walbot V, Willey J, Siegele DA, Hu JC
 Crowdsourcing biocuration: The Community Assessment of Community Annotation with Ontologies (CACAO).
-PLoS Comput Biol. 2021 Oct 28;17(10):e1009463. [doi](https://dx.doi.org/10.1371/journal.pcbi.1009463)
+_PLoS Comput Biol_. 2021 Oct 28;17(10):e1009463. [doi](https://dx.doi.org/10.1371/journal.pcbi.1009463)
 
 
 + Martinez-Galvez G, Joshi P, **Friedberg I**, Manduca A, Ekker SC
 Deploying MMEJ using MENdel in precision gene editing applications for gene therapy and functional genomics.
-Nucleic Acids Res. 2021 Jan 11;49(1):67-78. [doi](https://dx.doi.org/10.1093/nar/gkaa1156)
+_Nucleic Acids Res_. 2021 Jan 11;49(1):67-78. [doi](https://dx.doi.org/10.1093/nar/gkaa1156)
 
 
 + Mangravite L, Mooney SD, **Friedberg I**, Guinney J
 Establishing the reliability of algorithms.
-Pac Symp Biocomput. 2021;26:341-345.
+_Pac Symp Biocomput_. 2021;26:341-345.
 
 + Nguyen HN, Markin A, **Friedberg I**, Eulenstein O
 Finding orthologous gene blocks in bacteria: the computational hardness of the problem and novel methods to address it.
-Bioinformatics. 2020 Dec 30;36(Suppl_2):i668-i674. [doi](https://dx.doi.org/10.1093/bioinformatics/btaa794)
+_Bioinformatics_. 2020 Dec 30;36(Suppl_2):i668-i674. [doi](https://dx.doi.org/10.1093/bioinformatics/btaa794)
 
 
 + Nett RS, Nguyen H, Nagel R, Marcassa A, Charles TC, **Friedberg I**, Peters RJ
 Unraveling a Tangled Skein: Evolutionary Analysis of the Bacterial Gibberellin Biosynthetic Operon.
-mSphere. 2020 Jun 3;5(3). pii: 5/3/e00292-20. [doi](https://dx.doi.org/10.1128/mSphere.00292-20)
+_mSphere_. 2020 Jun 3;5(3). pii: 5/3/e00292-20. [doi](https://dx.doi.org/10.1128/mSphere.00292-20)
 
 
 
 + Fields FR, Freed SD, Carothers KE, Hamid MN, Hammers DE, Ross JN, Kalwajtys VR, Gonzalez AJ, Hildreth AD, **Friedberg I**, Lee SW
 Novel antimicrobial peptide discovery using machine learning and biophysical selection of minimal bacteriocin domains.
-Drug Dev Res. 2020 Feb;81(1):43-51. [doi](https://dx.doi.org/10.1002/ddr.21601)
+_Drug Dev Res_. 2020 Feb;81(1):43-51. [doi](https://dx.doi.org/10.1002/ddr.21601)
 
 
 + Zhou N, Jiang Y, Bergquist TR, Lee AJ, Kacsoh BZ, Crocker AW, Lewis KA, Georghiou G, Nguyen HN, Hamid MN, Davis L, Dogan T, Atalay V, Rifaioglu AS, Dalkiran A, Cetin Atalay R, Zhang C, Hurto RL, Freddolino PL, Zhang Y, Bhat P, Supek F, Fernandez JM, Gemovic B, Perovic VR, Davidovic RS, Sumonja N, Veljkovic N, Asgari E, Mofrad MRK, Profiti G, Savojardo C, Martelli PL, Casadio R, Boecker F, Schoof H, Kahanda I, Thurlby N, McHardy AC, Renaux A, Saidi R, Gough J, Freitas AA, Antczak M, Fabris F, Wass MN, Hou J, Cheng J, Wang Z, Romero AE, Paccanaro A, Yang H, Goldberg T, Zhao C, Holm L, Toronen P, Medlar AJ, Zosa E, Borukhov I, Novikov I, Wilkins A, Lichtarge O, Chi PH, Tseng WC, Linial M, Rose PW, Dessimoz C, Vidulin V, Dzeroski S, Sillitoe I, Das S, Lees JG, Jones DT, Wan C, Cozzetto D, Fa R, Torres M, Warwick Vesztrocy A, Rodriguez JM, Tress ML, Frasca M, Notaro M, Grossi G, Petrini A, Re M, Valentini G, Mesiti M, Roche DB, Reeb J, Ritchie DW, Aridhi S, Alborzi SZ, Devignes MD, Koo DCE, Bonneau R, Gligorijevic V, Barot M, Fang H, Toppo S, Lavezzo E, Falda M, Berselli M, Tosatto SCE, Carraro M, Piovesan D, Ur Rehman H, Mao Q, Zhang S, Vucetic S, Black GS, Jo D, Suh E, Dayton JB, Larsen DJ, Omdahl AR, McGuffin LJ, Brackenridge DA, Babbitt PC, Yunes JM, Fontana P, Zhang F, Zhu S, You R, Zhang Z, Dai S, Yao S, Tian W, Cao R, Chandler C, Amezola M, Johnson D, Chang JM, Liao WH, Liu YW, Pascarelli S, Frank Y, Hoehndorf R, Kulmanov M, Boudellioua I, Politano G, Di Carlo S, Benso A, Hakala K, Ginter F, Mehryary F, Kaewphan S, Bjorne J, Moen H, Tolvanen MEE, Salakoski T, Kihara D, Jain A, Smuc T, Altenhoff A, Ben-Hur A, Rost B, Brenner SE, Orengo CA, Jeffery CJ, Bosco G, Hogan DA, Martin MJ, O'Donovan C, Mooney SD, Greene CS, Radivojac P, **Friedberg I**
 The CAFA challenge reports improved protein function prediction and new functional annotations for hundreds of genes through experimental screens.
-Genome Biol. 2019 Nov 19;20(1):244. [doi](https://dx.doi.org/10.1186/s13059-019-1835-8)
+_Genome Biol_. 2019 Nov 19;20(1):244. [doi](https://dx.doi.org/10.1186/s13059-019-1835-8)
 
 
 + Wierson WA, Simone BW, WareJoncas Z, Mann C, Welker JM, Kar B, Emch MJ, **Friedberg I**, Gendron WAC, Barry MA, Clark KJ, Dobbs DL, McGrail MA, Ekker SC, Essner JJ
