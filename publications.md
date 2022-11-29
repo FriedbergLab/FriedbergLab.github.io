@@ -7,14 +7,16 @@ permalink: /publications/
 ### Lab Publications
 For a full publication list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=0NEtdwoAAAAJ&view_op=list_works&sortby=pubdate)
 
++ 
+
 + de Crecy-Lagard V, Amorin de Hegedus R, Arighi C, Babor J, Bateman A, Blaby I, Blaby-Haas C, Bridge AJ, Burley SK, Cleveland S, Colwell LJ, Conesa A, Dallago C, Danchin A, de Waard A, Deutschbauer A, Dias R, Ding Y, Fang G, **Friedberg I**, Gerlt J, Goldford J, Gorelik M, Gyori BM, Henry C, Hutinet G, Jaroch M, Karp PD, Kondratova L, Lu Z, Marchler-Bauer A, Martin MJ, McWhite C, Moghe GD, Monaghan P, Morgat A, Mungall CJ, Natale DA, Nelson WC, O'Donoghue S, Orengo C, O'Toole KH, Radivojac P, Reed C, Roberts RJ, Rodionov D, Rodionova IA, Rudolf JD, Saleh L, Sheynkman G, Thibaud-Nissen F, Thomas PD, Uetz P, Vallenet D, Carter EW, Weigele PR, Wood V, Wood-Charlson EM, Xu J
 A roadmap for the functional annotation of protein families: a community perspective.
-Database (Oxford). 2022 Aug 12;2022. pii: 6663924. [doi](https://dx.doi.org/10.1093/database/baac062./)
+Database (Oxford). 2022 Aug 12;2022. pii: 6663924. [doi](https://dx.doi.org/10.1093/database/baac062/)
 
 
 + Wymore Brand M, Proctor AL, Hostetter JM, Zhou N, **Friedberg I**, Jergens AE, Phillips GJ, Wannemuehler MJ
 Vertical transmission of attaching and invasive E. coli from the dam to neonatal mice predisposes to more severe colitis following exposure to a colitic insult later in life.
-PLoS One. 2022 Apr 5;17(4):e0266005. [doi](https://dx.doi.org/10.1371/journal.pone.0266005. eCollection 2022)
+PLoS One. 2022 Apr 5;17(4):e0266005. [doi](https://dx.doi.org/10.1371/journal.pone.0266005)
 
 
 + Kilpatrick AM, Rahman F, Anjum A, Shome S, Andalib KMS, Banik S, Chowdhury SF, Coombe P, Astroz YC, Douglas JM, Eranti P, Kiran AD, Kumar S, Lim H, Lorenzi V, Lubiana T, Mahmud S, Puche R, Rybarczyk A, Al Sium SM, Twesigomwe D, Zok T, Orengo CA, **Friedberg I**, Kelso JF, Welch L
@@ -23,7 +25,7 @@ Bioinformatics. 2022 Jun 24;38(Suppl 1):i19-i27. [doi](https://dx.doi.org/10.109
 
 + Ramsey J, McIntosh B, Renfro D, Aleksander SA, LaBonte S, Ross C, Zweifel AE, Liles N, Farrar S, Gill JJ, Erill I, Ades S, Berardini TZ, Bennett JA, Brady S, Britton R, Carbon S, Caruso SM, Clements D, Dalia R, Defelice M, Doyle EL, **Friedberg I**, Gurney SMR, Hughes L, Johnson A, Kowalski JM, Li D, Lovering RC, Mans TL, McCarthy F, Moore SD, Murphy R, Paustian TD, Perdue S, Peterson CN, Pruss BM, Saha MS, Sheehy RR, Tansey JT, Temple L, Thorman AW, Trevino S, Vollmer AC, Walbot V, Willey J, Siegele DA, Hu JC
 Crowdsourcing biocuration: The Community Assessment of Community Annotation with Ontologies (CACAO).
-PLoS Comput Biol. 2021 Oct 28;17(10):e1009463. [doi](https://dx.doi.org/10.1371/journal.pcbi.1009463. eCollection 2021 Oct)
+PLoS Comput Biol. 2021 Oct 28;17(10):e1009463. [doi](https://dx.doi.org/10.1371/journal.pcbi.1009463)
 
 
 + Martinez-Galvez G, Joshi P, **Friedberg I**, Manduca A, Ekker SC
@@ -48,7 +50,7 @@ mSphere. 2020 Jun 3;5(3). pii: 5/3/e00292-20. [doi](https://dx.doi.org/10.1128/m
 
 + Fields FR, Freed SD, Carothers KE, Hamid MN, Hammers DE, Ross JN, Kalwajtys VR, Gonzalez AJ, Hildreth AD, **Friedberg I**, Lee SW
 Novel antimicrobial peptide discovery using machine learning and biophysical selection of minimal bacteriocin domains.
-Drug Dev Res. 2020 Feb;81(1):43-51. [doi](https://dx.doi.org/10.1002/ddr.21601. Epub 2019 Sep 4)
+Drug Dev Res. 2020 Feb;81(1):43-51. [doi](https://dx.doi.org/10.1002/ddr.21601)
 
 
 + Zhou N, Jiang Y, Bergquist TR, Lee AJ, Kacsoh BZ, Crocker AW, Lewis KA, Georghiou G, Nguyen HN, Hamid MN, Davis L, Dogan T, Atalay V, Rifaioglu AS, Dalkiran A, Cetin Atalay R, Zhang C, Hurto RL, Freddolino PL, Zhang Y, Bhat P, Supek F, Fernandez JM, Gemovic B, Perovic VR, Davidovic RS, Sumonja N, Veljkovic N, Asgari E, Mofrad MRK, Profiti G, Savojardo C, Martelli PL, Casadio R, Boecker F, Schoof H, Kahanda I, Thurlby N, McHardy AC, Renaux A, Saidi R, Gough J, Freitas AA, Antczak M, Fabris F, Wass MN, Hou J, Cheng J, Wang Z, Romero AE, Paccanaro A, Yang H, Goldberg T, Zhao C, Holm L, Toronen P, Medlar AJ, Zosa E, Borukhov I, Novikov I, Wilkins A, Lichtarge O, Chi PH, Tseng WC, Linial M, Rose PW, Dessimoz C, Vidulin V, Dzeroski S, Sillitoe I, Das S, Lees JG, Jones DT, Wan C, Cozzetto D, Fa R, Torres M, Warwick Vesztrocy A, Rodriguez JM, Tress ML, Frasca M, Notaro M, Grossi G, Petrini A, Re M, Valentini G, Mesiti M, Roche DB, Reeb J, Ritchie DW, Aridhi S, Alborzi SZ, Devignes MD, Koo DCE, Bonneau R, Gligorijevic V, Barot M, Fang H, Toppo S, Lavezzo E, Falda M, Berselli M, Tosatto SCE, Carraro M, Piovesan D, Ur Rehman H, Mao Q, Zhang S, Vucetic S, Black GS, Jo D, Suh E, Dayton JB, Larsen DJ, Omdahl AR, McGuffin LJ, Brackenridge DA, Babbitt PC, Yunes JM, Fontana P, Zhang F, Zhu S, You R, Zhang Z, Dai S, Yao S, Tian W, Cao R, Chandler C, Amezola M, Johnson D, Chang JM, Liao WH, Liu YW, Pascarelli S, Frank Y, Hoehndorf R, Kulmanov M, Boudellioua I, Politano G, Di Carlo S, Benso A, Hakala K, Ginter F, Mehryary F, Kaewphan S, Bjorne J, Moen H, Tolvanen MEE, Salakoski T, Kihara D, Jain A, Smuc T, Altenhoff A, Ben-Hur A, Rost B, Brenner SE, Orengo CA, Jeffery CJ, Bosco G, Hogan DA, Martin MJ, O'Donovan C, Mooney SD, Greene CS, Radivojac P, **Friedberg I**
@@ -58,7 +60,7 @@ Genome Biol. 2019 Nov 19;20(1):244. [doi](https://dx.doi.org/10.1186/s13059-019-
 
 + Wierson WA, Simone BW, WareJoncas Z, Mann C, Welker JM, Kar B, Emch MJ, **Friedberg I**, Gendron WAC, Barry MA, Clark KJ, Dobbs DL, McGrail MA, Ekker SC, Essner JJ
 Expanding the CRISPR Toolbox with ErCas12a in Zebrafish and Human Cells.
-CRISPR J. 2019 Dec;2(6):417-433. [doi](https://dx.doi.org/10.1089/crispr.2019.0026. Epub 2019 Nov 19)
+CRISPR J. 2019 Dec;2(6):417-433. [doi](https://dx.doi.org/10.1089/crispr.2019.0026)
 
 
 + Nguyen HN, Jain A, Eulenstein O, **Friedberg I**
@@ -88,22 +90,22 @@ Bioinformatics. 2019 Jun 1;35(12):2009-2016. [doi](https://dx.doi.org/10.1093/bi
 
 + Cho KT, Portwood JL 2nd, Gardiner JM, Harper LC, Lawrence-Dill CJ, **Friedberg I**, Andorf CM
 MaizeDIG: Maize Database of Images and Genomes.
-Front Plant Sci. 2019 Aug 28;10:1050. [doi](https://dx.doi.org/10.3389/fpls.2019.01050. eCollection 2019)
+Front Plant Sci. 2019 Aug 28;10:1050. [doi](https://dx.doi.org/10.3389/fpls.2019.01050)
 
 
 + Cao L, Gurevich A, Alexander KL, Naman CB, Leao T, Glukhov E, Luzzatto-Knaan T, Vargas F, Quinn R, Bouslimani A, Nothias LF, Singh NK, Sanders JG, Benitez RAS, Thompson LR, Hamid MN, Morton JT, Mikheenko A, Shlemov A, Korobeynikov A, **Friedberg I**, Knight R, Venkateswaran K, Gerwick WH, Gerwick L, Dorrestein PC, Pevzner PA, Mohimani H
 MetaMiner: A Scalable Peptidogenomics Approach for Discovery of Ribosomal Peptide Natural Products with Blind Modifications from Microbial Communities.
-Cell Syst. 2019 Dec 18;9(6):600-608.e4. [doi](https://dx.doi.org/10.1016/j.cels.2019.09.004. Epub 2019 Oct 16)
+Cell Syst. 2019 Dec 18;9(6):600-608.e4. [doi](https://dx.doi.org/10.1016/j.cels.2019.09.004)
 
 
 + Zhou N, Siegel ZD, Zarecor S, Lee N, Campbell DA, Andorf CM, Nettleton D, Lawrence-Dill CJ, Ganapathysubramanian B, Kelly JW, **Friedberg I**
 Crowdsourcing image analysis for plant phenomics to generate ground truth data for machine learning.
-PLoS Comput Biol. 2018 Jul 30;14(7):e1006337. [doi](https://dx.doi.org/10.1371/journal.pcbi.1006337. eCollection 2018 Jul)
+PLoS Comput Biol. 2018 Jul 30;14(7):e1006337. [doi](https://dx.doi.org/10.1371/journal.pcbi.1006337)
 
 
 + Wimalanathan K, **Friedberg I**, Andorf CM, Lawrence-Dill CJ
 Maize GO Annotation-Methods, Evaluation, and Review (maize-GAMER).
-Plant Direct. 2018 Apr 11;2(4):e00052. [doi](https://dx.doi.org/10.1002/pld3.52. eCollection 2018 Apr)
+Plant Direct. 2018 Apr 11;2(4):e00052. [doi](https://dx.doi.org/10.1002/pld3.52)
 
 
 + **Friedberg I**, Radivojac P
@@ -119,12 +121,12 @@ Genome Biol. 2016 Sep 7;17(1):184. [doi](https://dx.doi.org/10.1186/s13059-016-1
 
 + Cigarroa-Toledo N, Blitvich BJ, Cetina-Trejo RC, Talavera-Aguilar LG, Baak-Baak CM, Torres-Chable OM, Hamid MN, **Friedberg I**, Gonzalez-Martinez P, Alonzo-Salomon G, Rosado-Paredes EP, Rivero-Cardenas N, Reyes-Solis GC, Farfan-Ale JA, Garcia-Rejon JE, Machain-Williams C
 Chikungunya Virus in Febrile Humans and Aedes aegypti Mosquitoes, Yucatan, Mexico.
-Emerg Infect Dis. 2016 Oct;22(10):1804-7. [doi](https://dx.doi.org/10.3201/eid2210.152087. Epub 2016 Oct 15)
+Emerg Infect Dis. 2016 Oct;22(10):1804-7. [doi](https://dx.doi.org/10.3201/eid2210.152087)
 
 
 + Ream DC, Bankapur AR, **Friedberg I**
 An event-driven approach for studying gene block evolution in bacteria.
-Bioinformatics. 2015 Jul 1;31(13):2075-83. [doi](https://dx.doi.org/10.1093/bioinformatics/btv128. Epub 2015 Feb 25)
+Bioinformatics. 2015 Jul 1;31(13):2075-83. [doi](https://dx.doi.org/10.1093/bioinformatics/btv128)
 
 
 + Morton JT, Freed SD, Lee SW, **Friedberg I**
@@ -134,12 +136,12 @@ BMC Bioinformatics. 2015 Nov 11;16:381. [doi](https://dx.doi.org/10.1186/s12859-
 
 + **Friedberg I**, Wass MN, Mooney SD, Radivojac P
 Ten simple rules for a community computational challenge.
-PLoS Comput Biol. 2015 Apr 23;11(4):e1004150. [doi](https://dx.doi.org/10.1371/journal.pcbi.1004150. eCollection 2015 Apr)
+PLoS Comput Biol. 2015 Apr 23;11(4):e1004150. [doi](https://dx.doi.org/10.1371/journal.pcbi.1004150)
 
 
 + Wass MN, Mooney SD, Linial M, Radivojac P, **Friedberg I**
 The automated function prediction SIG looks back at 2013 and prepares for 2014.
-Bioinformatics. 2014 Jul 15;30(14):2091-2. [doi](https://dx.doi.org/10.1093/bioinformatics/btu117. Epub 2014 Mar 3)
+Bioinformatics. 2014 Jul 15;30(14):2091-2. [doi](https://dx.doi.org/10.1093/bioinformatics/btu117)
 
 
 + Jiang Y, Clark WT, **Friedberg I**, Radivojac P
@@ -149,28 +151,27 @@ Bioinformatics. 2014 Sep 1;30(17):i609-16. [doi](https://dx.doi.org/10.1093/bioi
 
 + Schnoes AM, Ream DC, Thorman AW, Babbitt PC, **Friedberg I**
 Biases in the experimental annotations of protein function and their effect on our understanding of protein function space.
-PLoS Comput Biol. 2013;9(5):e1003063. [doi](https://dx.doi.org/10.1371/journal.pcbi.1003063. Epub 2013 May 30)
+PLoS Comput Biol. 2013;9(5):e1003063. [doi](https://dx.doi.org/10.1371/journal.pcbi.1003063)
 
 
 + Ream DC, Murakami ST, Schmidt EE, Huang GH, Liang C, **Friedberg I**, Cheng XW
 Comparative analysis of error-prone replication mononucleotide repeats across baculovirus genomes.
-Virus Res. 2013 Dec 26;178(2):217-25. [doi](https://dx.doi.org/10.1016/j.virusres.2013.10.005. Epub 2013 Oct 17)
+Virus Res. 2013 Dec 26;178(2):217-25. [doi](https://dx.doi.org/10.1016/j.virusres.2013.10.005)
 
 
 + Radivojac P, Clark WT, Oron TR, Schnoes AM, Wittkop T, Sokolov A, Graim K, Funk C, Verspoor K, Ben-Hur A, Pandey G, Yunes JM, Talwalkar AS, Repo S, Souza ML, Piovesan D, Casadio R, Wang Z, Cheng J, Fang H, Gough J, Koskinen P, Toronen P, Nokso-Koivisto J, Holm L, Cozzetto D, Buchan DW, Bryson K, Jones DT, Limaye B, Inamdar H, Datta A, Manjari SK, Joshi R, Chitale M, Kihara D, Lisewski AM, Erdin S, Venner E, Lichtarge O, Rentzsch R, Yang H, Romero AE, Bhat P, Paccanaro A, Hamp T, Kassner R, Seemayer S, Vicedo E, Schaefer C, Achten D, Auer F, Boehm A, Braun T, Hecht M, Heron M, Honigschmid P, Hopf TA, Kaufmann S, Kiening M, Krompass D, Landerer C, Mahlich Y, Roos M, Bjorne J, Salakoski T, Wong A, Shatkay H, Gatzmann F, Sommer I, Wass MN, Sternberg MJ, Skunca N, Supek F, Bosnjak M, Panov P, Dzeroski S, Smuc T, Kourmpetis YA, van Dijk AD, ter Braak CJ, Zhou Y, Gong Q, Dong X, Tian W, Falda M, Fontana P, Lavezzo E, Di Camillo B, Toppo S, Lan L, Djuric N, Guo Y, Vucetic S, Bairoch A, Linial M, Babbitt PC, Brenner SE, Orengo C, Rost B, Mooney SD, **Friedberg I**
 A large-scale evaluation of computational protein function prediction.
-Nat Methods. 2013 Mar;10(3):221-7. [doi](https://dx.doi.org/10.1038/nmeth.2340. Epub 2013 Jan 27)
+Nat Methods. 2013 Mar;10(3):221-7. [doi](https://dx.doi.org/10.1038/nmeth.2340)
 
 
 + Oberlin AT, Jurkovic DA, Balish MF, **Friedberg I**
 Biological database of images and genomes: tools for community annotations linking image and genomic information.
-Database (Oxford). 2013 Apr 2;2013:bat016. [doi](https://dx.doi.org/10.1093/database/bat016. Print 2013)
+Database (Oxford). 2013 Apr 2;2013:bat016. [doi](https://dx.doi.org/10.1093/database/bat016)
 
 
 + Anton BP, Chang YC, Brown P, Choi HP, Faller LL, Guleria J, Hu Z, Klitgord N, Levy-Moonshine A, Maksad A, Mazumdar V, McGettrick M, Osmani L, Pokrzywa R, Rachlin J, Swaminathan R, Allen B, Housman G, Monahan C, Rochussen K, Tao K, Bhagwat AS, Brenner SE, Columbus L, de Crecy-Lagard V, Ferguson D, Fomenkov A, Gadda G, Morgan RD, Osterman AL, Rodionov DA, Rodionova IA, Rudd KE, Soll D, Spain J, Xu SY, Bateman A, Blumenthal RM, Bollinger JM, Chang WS, Ferrer M, **Friedberg I**, Galperin MY, Gobeill J, Haft D, Hunt J, Karp P, Klimke W, Krebs C, Macelis D, Madupu R, Martin MJ, Miller JH, O'Donovan C, Palsson B, Ruch P, Setterdahl A, Sutton G, Tate J, Yakunin A, Tchigvintsev D, Plata G, Hu J, Greiner R, Horn D, Sjolander K, Salzberg SL, Vitkup D, Letovsky S, Segre D, DeLisi C, Roberts RJ, Steffen M, Kasif S
 The COMBREX project: design, methodology, and initial results.
-PLoS Biol. 2013;11(8):e1001638. [doi](https://dx.doi.org/10.1371/journal.pbio.1001638. Epub 2013 Aug 27)
-
+PLoS Biol. 2013;11(8):e1001638. [doi](https://dx.doi.org/10.1371/journal.pbio.1001638)
 
 + Schwartz S, **Friedberg I**, Ivanov IV, Davidson LA, Goldsby JS, Dahl DB, Herman D, Wang M, Donovan SM, Chapkin RS
 A metagenomic study of diet-dependent interaction between gut microbiota and host in infants reveals differences in immune response.
@@ -184,7 +185,7 @@ Adv Nutr. 2012 May 1;3(3):450S-5S. [doi](https://dx.doi.org/10.3945/an.112.00185
 
 + Bielewicz S, Bell E, Kong W, **Friedberg I**, Priscu JC, Morgan-Kiss RM
 Protist diversity in a permanently ice-covered Antarctic lake during the polar night transition.
-ISME J. 2011 Sep;5(9):1559-64. [doi](https://dx.doi.org/10.1038/ismej.2011.23. Epub 2011 Mar 10)
+ISME J. 2011 Sep;5(9):1559-64. [doi](https://dx.doi.org/10.1038/ismej.2011.23)
 
 
 + Wooley JC, Godzik A, **Friedberg I**
@@ -214,7 +215,7 @@ Stand Genomic Sci. 2009 Dec 29;1(3):278-82. [doi](https://dx.doi.org/10.4056/sig
 
 + Cock PJ, Antao T, Chang JT, Chapman BA, Cox CJ, Dalke A, **Friedberg I**, Hamelryck T, Kauff F, Wilczynski B, de Hoon MJ
 Biopython: freely available Python tools for computational molecular biology and bioinformatics.
-Bioinformatics. 2009 Jun 1;25(11):1422-3. [doi](https://dx.doi.org/10.1093/bioinformatics/btp163. Epub 2009 Mar 20)
+Bioinformatics. 2009 Jun 1;25(11):1422-3. [doi](https://dx.doi.org/10.1093/bioinformatics/btp163)
 
 
 + Rodrigues AP, Grant BJ, Godzik A, **Friedberg I**
@@ -224,7 +225,7 @@ BMC Bioinformatics. 2007 May 22;8 Suppl 4:S1-4. [doi](https://dx.doi.org/10.1186
 
 + **Friedberg I**, Nika K, Tautz L, Saito K, Cerignoli F, **Friedberg I**, Godzik A, Mustelin T
 Identification and characterization of DUSP27, a novel dual-specific protein phosphatase.
-FEBS Lett. 2007 May 29;581(13):2527-33. [doi](https://dx.doi.org/10.1016/j.febslet.2007.04.059. Epub 2007 Apr 30)
+FEBS Lett. 2007 May 29;581(13):2527-33. [doi](https://dx.doi.org/10.1016/j.febslet.2007.04.059)
 
 
 + **Friedberg I**, Harder T, Kolodny R, Sitbon E, Li Z, Godzik A
@@ -249,7 +250,7 @@ Nucleic Acids Res. 2006 Jul 1;34(Web Server issue):W379-81. [doi](https://dx.doi
 
 + **Friedberg I**
 Automated protein function prediction--the genomic challenge.
-Brief Bioinform. 2006 Sep;7(3):225-42. [doi](https://dx.doi.org/10.1093/bib/bbl004. Epub 2006 May 23)
+Brief Bioinform. 2006 Sep;7(3):225-42. [doi](https://dx.doi.org/10.1093/bib/bbl004)
 
 
 + Bourne PE, **Friedberg I**
