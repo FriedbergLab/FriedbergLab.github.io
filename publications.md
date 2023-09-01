@@ -14,6 +14,10 @@ For a full publication list, see [Google Scholar](https://scholar.google.com/cit
 
 #### Peer reviewed
 
++  Chung HC, Foxx CL, Hicks JA, Stuber TP, **Friedberg I**, Dorman KS, Harris B An accurate and interpretable model for antimicrobial resistance in pathogenic Escherichia coli from livestock and companion animal species (2023)  _PLoS ONE_ 18:8 e0290473 [doi](https://doi.org/10.1371/journal.pone.0290473)
+
++   Joshi P, Banerjee S, Hu X, Khade PM, **Friedberg I** GOThresher: a program to remove annotation biases from protein function annotation datasets _Bioinformatics_ (2023) 39:1 btad048 [doi](https://doi.org/10.1093/bioinformatics/btad048)
+
 + Ramola R, **Friedberg I**, Radivojac P The field of protein function prediction as viewed by different domain scientists  _Bioinformatics Advances_ 2:1 vbac057 (2022) [doi](https://doi.org/10.1093/bioadv/vbac057)
 
 + de Crecy-Lagard V, Amorin de Hegedus R, Arighi C, Babor J, Bateman A, Blaby I, Blaby-Haas C, Bridge AJ, Burley SK, Cleveland S, Colwell LJ, Conesa A, Dallago C, Danchin A, de Waard A, Deutschbauer A, Dias R, Ding Y, Fang G, **Friedberg I**, Gerlt J, Goldford J, Gorelik M, Gyori BM, Henry C, Hutinet G, Jaroch M, Karp PD, Kondratova L, Lu Z, Marchler-Bauer A, Martin MJ, McWhite C, Moghe GD, Monaghan P, Morgat A, Mungall CJ, Natale DA, Nelson WC, O'Donoghue S, Orengo C, O'Toole KH, Radivojac P, Reed C, Roberts RJ, Rodionov D, Rodionova IA, Rudolf JD, Saleh L, Sheynkman G, Thibaud-Nissen F, Thomas PD, Uetz P, Vallenet D, Carter EW, Weigele PR, Wood V, Wood-Charlson EM, Xu J
