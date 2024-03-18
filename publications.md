@@ -13,7 +13,7 @@ For a full publication list, see [Google Scholar](https://scholar.google.com/cit
 + Banerjee P, Eulenstein O, **Friedberg I** Discovering genomic islands in unannotated bacterial genomes using sequence embedding _bioRxiv_ 2022  [doi](https://doi.org/10.1101/2022.08.25.505341)
 
 #### Peer reviewed
-+ Piovesan D, Zago D, Parnal Joshi P, De Paolis Kaluza MC, Mehdiabadi M, Ramola R, Monzon AM, Reade W, **Iddo Friedberg**, Radivojac P, Tosatto SCE CAFA-evaluator: A Python Tool for Benchmarking Ontological Classification Methods (2024) _Bioinformatics Advances_ vbae043, [doi](https://doi.org/10.1093/bioadv/vbae043)
++ Piovesan D, Zago D, Joshi P, De Paolis Kaluza MC, Mehdiabadi M, Ramola R, Monzon AM, Reade W, **Friedberg I**, Radivojac P, Tosatto SCE CAFA-evaluator: A Python Tool for Benchmarking Ontological Classification Methods (2024) _Bioinformatics Advances_ vbae043, [doi](https://doi.org/10.1093/bioadv/vbae043)
 
 + The Critical Assessment of Genome Interpretation Consortium. CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods. (2024) _Genome Biol_ 25, 53  [doi](https://doi.org/10.1186/s13059-023-03113-6)
 
