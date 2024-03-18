@@ -8,12 +8,17 @@ permalink: /publications/
 For a full publication list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=0NEtdwoAAAAJ&view_op=list_works&sortby=pubdate)
 
 #### Preprints
++  Zinski J, Chung H, Joshi P, Warrick F, Berg BD, Glova G, McGrail M, Balciunas D, **Friedberg I**, Mullins M EpicTope: narrating protein sequence features to identify non-disruptive epitope tagging sites (2024) _bioRxiv_ 2024.03.03.583232; [doi](https://doi.org/10.1101/2024.03.03.583232)
 
 + Banerjee P, Eulenstein O, **Friedberg I** Discovering genomic islands in unannotated bacterial genomes using sequence embedding _bioRxiv_ 2022  [doi](https://doi.org/10.1101/2022.08.25.505341)
-+   Mahlich Y,  Zhu C, Chung H, Velaga PK, M. Clara de Paolis Kaluza, Radivojac P, **Friedberg I**, Bromberg Y  Rethinking bacterial relationships in light of their molecular abilities _biorxiv_ 2022 [doi](https://www.biorxiv.org/content/10.1101/2022.11.28.518265v1)
 
 #### Peer reviewed
++ Damiano Piovesan, Davide Zago, Parnal Joshi, M Clara De Paolis Kaluza, Mahta Mehdiabadi, Rashika Ramola, Alexander Miguel Monzon, Walter Reade, **Iddo Freidberg**, Predrag Radivojac, Silvio C E Tosatto CAFA-evaluator: A Python Tool for Benchmarking Ontological Classification Methods (2024) _Bioinformatics Advances_ vbae043, [doi](https://doi.org/10.1093/bioadv/vbae043)
 
++ The Critical Assessment of Genome Interpretation Consortium. CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods. _Genome Biol_ 25, 53 (2024) [doi](https://doi.org/10.1186/s13059-023-03113-6)
+
++ Mahlich Y, Zhu C, Chung H, Velaga PV, De Paolis Kaluza MC, Radivojac P, **Friedberg I**, Bromberg Y Learning from the unknown: exploring the range of bacterial functionality _Nucleic Acids Research_, 51:19, 10162–10175 (2023) [doi](https://doi.org/10.1093/nar/gkad757)
+  
 +  Chung HC, Foxx CL, Hicks JA, Stuber TP, **Friedberg I**, Dorman KS, Harris B An accurate and interpretable model for antimicrobial resistance in pathogenic Escherichia coli from livestock and companion animal species (2023)  _PLoS ONE_ 18:8 e0290473 [doi](https://doi.org/10.1371/journal.pone.0290473)
 
 +   Joshi P, Banerjee S, Hu X, Khade PM, **Friedberg I** GOThresher: a program to remove annotation biases from protein function annotation datasets _Bioinformatics_ (2023) 39:1 btad048 [doi](https://doi.org/10.1093/bioinformatics/btad048)
