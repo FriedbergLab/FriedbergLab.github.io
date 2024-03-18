@@ -15,9 +15,9 @@ For a full publication list, see [Google Scholar](https://scholar.google.com/cit
 #### Peer reviewed
 + Damiano Piovesan, Davide Zago, Parnal Joshi, M Clara De Paolis Kaluza, Mahta Mehdiabadi, Rashika Ramola, Alexander Miguel Monzon, Walter Reade, **Iddo Freidberg**, Predrag Radivojac, Silvio C E Tosatto CAFA-evaluator: A Python Tool for Benchmarking Ontological Classification Methods (2024) _Bioinformatics Advances_ vbae043, [doi](https://doi.org/10.1093/bioadv/vbae043)
 
-+ The Critical Assessment of Genome Interpretation Consortium. CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods. _Genome Biol_ 25, 53 (2024) [doi](https://doi.org/10.1186/s13059-023-03113-6)
++ The Critical Assessment of Genome Interpretation Consortium. CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods. (2024) _Genome Biol_ 25, 53  [doi](https://doi.org/10.1186/s13059-023-03113-6)
 
-+ Mahlich Y, Zhu C, Chung H, Velaga PV, De Paolis Kaluza MC, Radivojac P, **Friedberg I**, Bromberg Y Learning from the unknown: exploring the range of bacterial functionality _Nucleic Acids Research_, 51:19, 10162–10175 (2023) [doi](https://doi.org/10.1093/nar/gkad757)
++ Mahlich Y, Zhu C, Chung H, Velaga PV, De Paolis Kaluza MC, Radivojac P, **Friedberg I**, Bromberg Y Learning from the unknown: exploring the range of bacterial functionality _Nucleic Acids Research_, (2023) 51:19, 10162–10175  [doi](https://doi.org/10.1093/nar/gkad757)
   
 +  Chung HC, Foxx CL, Hicks JA, Stuber TP, **Friedberg I**, Dorman KS, Harris B An accurate and interpretable model for antimicrobial resistance in pathogenic Escherichia coli from livestock and companion animal species (2023)  _PLoS ONE_ 18:8 e0290473 [doi](https://doi.org/10.1371/journal.pone.0290473)
 
