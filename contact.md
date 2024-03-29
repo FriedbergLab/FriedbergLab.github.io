@@ -3,10 +3,11 @@ layout: page
 title: Contact
 permalink: /contact/
 ---
-2118 Vet Med
+Iddo Friedberg\
+2118 Patterson Hall\
 College of Veterinary Medicine\
 Iowa State University\
-Ames, IA, 50011\
+Ames, IA, 50011-1134\
 USA
 
 ### How to get here
