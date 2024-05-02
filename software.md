@@ -6,10 +6,11 @@ permalink: /software/
 
 #### General software
 
-+ [**SwiftOrtho**](https://github.com/FriedbergLab/SwiftOrtho) SwiftOrtho is a fast orthology analysis tool which identifies orthologs, paralogs and co-orthologs for genomes using graph-based approach.
++ [**SwiftOrtho**](https://github.com/FriedbergLab/SwiftOrtho) SwiftOrtho is a fast orthology analysis tool that identifies orthologs, paralogs, and co-orthologs for genomes using a graph-based approach.
 + [**ROAGUE**](https://github.com/FriedbergLab/Ancestral-Blocks-Reconstruction)  (**R**econstruction **o**f **A**ncestral **G**ene Blocks **U**sing **E**vents) is a tool to reconstruct ancestors of gene blocks in prokaryotic genomes. Gene blocks are genes co-located on the chromosome. In many cases, gene blocks are conserved between bacterial species, sometimes as operons, when genes are co-transcribed. The conservation is rarely absolute: gene loss, gain, duplication, block splitting and block fusion are frequently observed.
-+ [**POEM**](https://github.com/FriedbergLab/POEM) POEM is a pipeline which can predict operons and core operons from metagenomic genome/assembly or short reads. It can be run on most * NIX systems.
-+ [**TreasureIsland**](https://github.com/FriedbergLab/GenomicIslandPrediction) TreasureIsland is a machine learning-based Genomic Island prediction software, that uses an unsupervised representation of DNA for its prediction.
++ [**POEM**](https://github.com/FriedbergLab/POEM) POEM is a pipeline that can predict operons and core operons from metagenomic genome/assembly or short reads. It can be run on most * NIX systems.
++ [**TreasureIsland**](https://github.com/FriedbergLab/GenomicIslandPrediction) TreasureIsland is a machine learning-based Genomic Island prediction software that uses an unsupervised representation of DNA for its prediction.
++ [**EpicTope**](https://github.com/FriedbergLab/Epictope) Epitope tagging is a technique enabling the identification, tracking, and purification of proteins _in vivo_. EpicTope helps experimentalists identify proter epitope insertion sites using CRISPR-cas9  
 
 #### CAFA Related software
 + [**GOThresher**](https://github.com/FriedbergLab/GOThresher) Use this to remove annotation biases from Uniprot-GOA files. Usefule fro preparing rtaining sets for protein function prediction software.
