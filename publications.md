@@ -10,9 +10,12 @@ For a full publication list, see [Google Scholar](https://scholar.google.com/cit
 #### Preprints
 +  Zinski J, Chung H, Joshi P, Warrick F, Berg BD, Glova G, McGrail M, Balciunas D, **Friedberg I**, Mullins M EpicTope: narrating protein sequence features to identify non-disruptive epitope tagging sites (2024) _bioRxiv_ 2024.03.03.583232; [doi](https://doi.org/10.1101/2024.03.03.583232)
 
-+ Banerjee P, Eulenstein O, **Friedberg I** Discovering genomic islands in unannotated bacterial genomes using sequence embedding _bioRxiv_ 2022  [doi](https://doi.org/10.1101/2022.08.25.505341)
+
 
 #### Peer reviewed
+
++ Banerjee P, Eulenstein O, **Friedberg I** Discovering genomic islands in unannotated bacterial genomes using sequence embedding (2024) _Bioinformatics Advances_ **4**:1, 2024, vbae089  [doi](https://doi.org/10.1093/bioadv/vbae089))
+
 + Piovesan D, Zago D, Joshi P, De Paolis Kaluza MC, Mehdiabadi M, Ramola R, Monzon AM, Reade W, **Friedberg I**, Radivojac P, Tosatto SCE CAFA-evaluator: A Python Tool for Benchmarking Ontological Classification Methods (2024) _Bioinformatics Advances_ vbae043, [doi](https://doi.org/10.1093/bioadv/vbae043)
 
 + The Critical Assessment of Genome Interpretation Consortium. CAGI, the Critical Assessment of Genome Interpretation, establishes progress and prospects for computational genetic variant interpretation methods. (2024) _Genome Biol_ 25, 53  [doi](https://doi.org/10.1186/s13059-023-03113-6)
