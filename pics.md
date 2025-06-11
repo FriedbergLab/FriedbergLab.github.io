@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Lab Videos
-permalink: /videos/
+title: Lab Pictures
+permalink: /pics/
 ---
 
 #### Coming soon
