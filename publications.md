@@ -8,15 +8,19 @@ permalink: /publications/
 For a full publication list, see [Google Scholar](https://scholar.google.com/citations?hl=en&user=0NEtdwoAAAAJ&view_op=list_works&sortby=pubdate)
 
 #### Preprints
-+ Phan A,  Joshi P, Kadelka C, **Friedberg I**
- A Longitudinal Analysis of Function Annotations of the Human Proteome Reveals Consistently High Biases (2024)
-_bioRxiv_ 2024.10.18.619148; [doi](https://doi.org/10.1101/2024.10.18.619148) 
+
+de Crécy-Lagard V, Dias R, Sexson N, **Friedberg I** , Yuan Y, Swairjo MA (2025) Limitations of Current Machine-Learning Models in Predicting Enzymatic Functions for Uncharacterized Proteins _bioRxiv_ 2024.07.01.601547; [doi](https://doi.org/10.1101/2024.07.01.601547)
 
 +  Zinski J, Chung H, Joshi P, Warrick F, Berg BD, Glova G, McGrail M, Balciunas D, **Friedberg I**, Mullins M EpicTope: narrating protein sequence features to identify non-disruptive epitope tagging sites (2024) _bioRxiv_ 2024.03.03.583232; [doi](https://doi.org/10.1101/2024.03.03.583232)
 
 
 
 #### Peer reviewed
+
++ Phan A,  Joshi P, Kadelka C, **Friedberg I**
+ A Longitudinal Analysis of Function Annotations of the Human Proteome Reveals Consistently High Biases (2025) _Database (OUP)_ **2025**:baaf036 [doi](https://doi.org/10.1093/database/baaf036)
+
+Chung HC, **Friedberg I**, Bromberg Y Assembling bacterial puzzles: piecing together functions into microbial pathways _NAR Genomics and Bioinformatics_ **6**:3 lqae109 [doi](https://doi.org/10.1093/nargab/lqae109)
 
 + Banerjee P, Eulenstein O, **Friedberg I** Discovering genomic islands in unannotated bacterial genomes using sequence embedding (2024) _Bioinformatics Advances_ **4**:1 vbae089  [doi](https://doi.org/10.1093/bioadv/vbae089)
 
