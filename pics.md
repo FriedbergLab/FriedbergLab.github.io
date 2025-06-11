@@ -9,7 +9,7 @@ permalink: /pics/
 -->
 ![image](./images/lab_lineup.jpg)
 
-![image](./images/labpics/IMG_4990.jpg")
+![image](./images/labpics/IMG_4990.jpg)
 
 ![image](./images/labpics/PXL_20240925_181154418~2.jpg)
 
