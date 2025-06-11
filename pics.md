@@ -5,4 +5,4 @@ permalink: /pics/
 ---
 
 
-<img src="https://friedberglab.net/images/labpics/20140518_124940.jpg" width="200" />
+<img src="./images/an_4_4.jpg" width="200" />
