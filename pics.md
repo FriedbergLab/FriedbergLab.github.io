@@ -5,4 +5,4 @@ permalink: /pics/
 ---
 
 
-<img src="./images/an_4_4.jpg" width="200" />
+<img src="./images/labpics/IMG_20180606_161448.jpg" width="400" />
