@@ -7,7 +7,7 @@ permalink: /pics/
 <!--
 <img src="./images/labpics/IMG_20180606_161448.jpg" width="700" />
 -->
-![lineup]("./images/lab_lineup.jpg" width="700")
+![image](./images/lab_lineup.jpg)
 
 <img src="./images/labpics/IMG_4990.jpg" width="700" />
 
