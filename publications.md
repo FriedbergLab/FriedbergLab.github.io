@@ -20,7 +20,7 @@ For a full publication list, see [Google Scholar](https://scholar.google.com/cit
 + Phan A,  Joshi P, Kadelka C, **Friedberg I**
  A Longitudinal Analysis of Function Annotations of the Human Proteome Reveals Consistently High Biases (2025) _Database (OUP)_ **2025**:baaf036 [doi](https://doi.org/10.1093/database/baaf036)
 
-Chung HC, **Friedberg I**, Bromberg Y Assembling bacterial puzzles: piecing together functions into microbial pathways _NAR Genomics and Bioinformatics_ **6**:3 lqae109 [doi](https://doi.org/10.1093/nargab/lqae109)
++ Chung HC, **Friedberg I**, Bromberg Y Assembling bacterial puzzles: piecing together functions into microbial pathways _NAR Genomics and Bioinformatics_ **6**:3 lqae109 [doi](https://doi.org/10.1093/nargab/lqae109)
 
 + Banerjee P, Eulenstein O, **Friedberg I** Discovering genomic islands in unannotated bacterial genomes using sequence embedding (2024) _Bioinformatics Advances_ **4**:1 vbae089  [doi](https://doi.org/10.1093/bioadv/vbae089)
 
