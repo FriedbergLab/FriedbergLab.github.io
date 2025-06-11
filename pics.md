@@ -9,9 +9,9 @@ permalink: /pics/
 -->
 ![image](./images/lab_lineup.jpg)
 
-<img src="./images/labpics/IMG_4990.jpg" width="700" />
+![image](./images/labpics/IMG_4990.jpg")
 
-<img src="./images/labpics/PXL_20240925_181154418~2.jpg" width="700" />
+![image](./images/labpics/PXL_20240925_181154418~2.jpg)
 
-<img src="images/labpics/img_20230315_112032.jpg" width="700" />
+![image](images/labpics/img_20230315_112032.jpg)
 
