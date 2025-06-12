@@ -18,3 +18,5 @@ permalink: /pics/
 ![image](./images/labpics/1000002999.jpg)
 
 ![image](./images/labpics/1000005206.jpg)
+
+![image](./images/labpics/PXL_20240510_015515629.jpg)
