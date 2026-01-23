@@ -47,7 +47,6 @@ I love reading, but only crime thrillers, love cooking, but prefer eating someon
 #### Ryan Scheunke
 
 
-#### Bane
 
 
 ## Lab Alumni
