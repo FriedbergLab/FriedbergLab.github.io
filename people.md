@@ -13,13 +13,10 @@ I am an Associate Professor at the department of Veterinary Microbiology & Preve
 
 In my spare time (ha!) I enjoy long distance running, old 70's cop shows, spaghetti westerns, and embarrassing my kids. You can follow me on <a rel="me" href="https://genomic.social/@iddux">Mastodon</a> if you are bored. 
 
-#### Henri Chung
 
 
-![Henri Chung](/images/henri_headshot4_4.jpg)
 
 
-My research interests include bacterial protein function, microbiomes, and machine learning methods. I was born and raised in Texas, and my family is from Hong Kong. Outside of research, I like to cook and make plots in R.
 
 #### Parnal Joshi
 ![Parnal Joshi](/images/parnal_headshot4_4.jpg)
@@ -44,6 +41,15 @@ I am a graduate student in the Bioinformatics and Computational Biology program 
 
 I love reading, but only crime thrillers, love cooking, but prefer eating someone else's food!
 
+#### McKenna Anson
+
+
+#### Ryan Scheunke
+
+
+#### Bane
+
+
 ## Lab Alumni
 
 ### Postdocs:
@@ -54,6 +60,7 @@ I love reading, but only crime thrillers, love cooking, but prefer eating someon
 
 ### Students:
 
++ Henri Chung
 + Naihui Zhou 
 + Md Nafiz Hamid
 + Huy Nguyen
