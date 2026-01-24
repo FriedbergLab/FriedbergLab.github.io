@@ -9,13 +9,15 @@ For a full publication list, see [Google Scholar](https://scholar.google.com/cit
 
 #### Preprints
 
-+ de Crécy-Lagard V, Dias R, Sexson N, **Friedberg I** , Yuan Y, Swairjo MA  Limitations of Current Machine-Learning Models in Predicting Enzymatic Functions for Uncharacterized Proteins (2025) _bioRxiv_ 2024.07.01.601547; [doi](https://doi.org/10.1101/2024.07.01.601547)
+
 
 +  Zinski J, Chung H, Joshi P, Warrick F, Berg BD, Glova G, McGrail M, Balciunas D, **Friedberg I**, Mullins M EpicTope: narrating protein sequence features to identify non-disruptive epitope tagging sites (2024) _bioRxiv_ 2024.03.03.583232; [doi](https://doi.org/10.1101/2024.03.03.583232)
 
 
 
 #### Peer reviewed
+
++ de Crécy-Lagard V, Dias R, Sexson N, **Friedberg I** , Yuan Y, Swairjo MA  Limitations of Current Machine-Learning Models in Predicting Enzymatic Functions for Uncharacterized Proteins (2025) _G3 Genes|Genomes|Genetics_ **15**:10  [doi](https://doi.org/10.1093/g3journal/jkaf169)
 
 + Phan A,  Joshi P, Kadelka C, **Friedberg I**
  A Longitudinal Analysis of Function Annotations of the Human Proteome Reveals Consistently High Biases (2025) _Database (OUP)_ **2025**:baaf036 [doi](https://doi.org/10.1093/database/baaf036)
