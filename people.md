@@ -50,6 +50,9 @@ I am a PhD student in the Bioinformatics and Computational Biology program. My r
 #### Ryan Scheunke
 
 
+![Ryan Scheunke](/images/generic_headshot_4_4.png)
+
+
 #### Bane
 ![Bane](/images/bane_4_4.png)
 
