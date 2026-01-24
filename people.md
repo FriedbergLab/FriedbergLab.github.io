@@ -51,7 +51,7 @@ I am a PhD student in the Bioinformatics and Computational Biology program. My r
 
 
 #### Bane
-![Bane](/images/bane_4_4.jpg)
+![Bane](/images/bane_4_4.png)
 
 
 ## Lab Alumni
