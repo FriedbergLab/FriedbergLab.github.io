@@ -42,11 +42,14 @@ I am a graduate student in the Bioinformatics and Computational Biology program 
 I love reading, but only crime thrillers, love cooking, but prefer eating someone else's food!
 
 #### McKenna Anson
-
+![McKenna Anson](/images/Kenna_4_4.jpg)
+I am a PhD student in the Bioinformatics and Computational Biology program. My research interest is applying statistics and computer science methods to solve complex biological problems. I am particularly interested in problems concerning genetics and genomics. I enjoy reading, watching anime, crocheting and training in BJJ.
 
 #### Ryan Scheunke
 
 
+#### Bane
+![Bane](/images/Bane_4_4.jpg)
 
 
 ## Lab Alumni
