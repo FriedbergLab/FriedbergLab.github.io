@@ -45,10 +45,10 @@ I love reading, but only crime thrillers, love cooking, but prefer eating someon
 
 I am a PhD student in the Bioinformatics and Computational Biology program. My research interest is applying statistics and computer science methods to solve complex biological problems. I am particularly interested in problems concerning genetics and genomics. I enjoy reading, watching anime, crocheting and training in BJJ.
 
-#### Ryan Scheunke
+#### Ryan Schuenke
 
 
-![Ryan Scheunke](/images/ryan_4_4.png)
+![Ryan Schuenke](/images/ryan_4_4.png)
 
 I am a PhD student in the Bioinformatics and Computational Biology program. I am interested in researching and developing computational tools related to protein structure and function to assist other researchers. I would like to create and improve the rigor of bioinformatics tools using statistics and machine learning. In my free time, I like cooking and trying new foods, and if I ever find enough time, playing the cello.
 
