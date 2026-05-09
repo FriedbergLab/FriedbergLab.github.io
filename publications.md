@@ -11,11 +11,11 @@ For a full publication list, see [Google Scholar](https://scholar.google.com/cit
 
 + Banerjee P, **Friedberg I**, Rued B, Eulenstein A PLUM Job: Peptide modeLs for Understanding and engineering antiMicrobial therapeutics (2026) _bioRxiv_ 2026.02.21.707214 [doi](https://doi.org/10.64898/2026.02.21.707214)
 
-+ Ma X, Joshi P, **Friedberg I**, Li Q How Not to be Seen: Predicting Unseen Enzyme Functions using Contrastive Learning (2026) _bioRxiv_ 2026.02.23.707489; [doi](https://doi.org/10.64898/2026.02.23.707489)
-
 
 #### Peer reviewed
 
++ Ma X, Joshi P, **Friedberg I**, Li Q How Not to be Seen: Predicting Unseen Enzyme Functions using Contrastive Learning (2026) _bioRxiv_ 2026.02.23.707489; [doi](https://doi.org/10.64898/2026.02.23.707489) (Accepted in _Bioinformatics_ ISMB 2026 proceedings special issue)
+  
 + Zinski J, Chung H, Joshi P, Warrick F, Berg BD, Glova G, McGrail M, Balciunas D, **Friedberg I**, Mullins M EpicTope: narrating protein sequence features to identify non-disruptive epitope tagging sites (2026) _Development_ 153(5): dev204502 [doi](https://doi.org/10.1242/dev.204502)
 
 
