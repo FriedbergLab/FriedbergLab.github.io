@@ -14,7 +14,7 @@ permalink: /software/
 
 #### CAFA Related software
 + [**LAFA**](https://functionbench.net) The **L**ongitudinal **A**ssessment of Protein **F**unction **A**nnotaton server continuously assesses protein function prediction models. The models are containerized and run on periodically updated benchmarks of protein function annotations compiled from several sources.
-+ [**GOThresher**](https://github.com/FriedbergLab/GOThresher) Use this to remove annotation biases from Uniprot-GOA files. Usefule fro preparing rtaining sets for protein function prediction software.
++ [**GOThresher**](https://github.com/FriedbergLab/GOThresher) Use this to remove annotation biases from Uniprot-GOA files. Usefule for preparing training sets for protein function prediction software.
 + [**CAFA_Benchmark**](https://github.com/CAFA-Challenge/CAFA_benchmark) Create benchmarks fro CAFA assessments using Uniprot-GOA files from different dates.
 + [**CAFA-swissprot**](https://github.com/CAFA-Challenge/cafa-swissprot) create an initial dataset for CAFA competitors from a Swissprot-Uniprot file.
 + [**CAFA_evaluation**](https://github.com/CAFA-Challenge/CAFA_evaluation) a suite of tools to evaluate CAFA predictions.
