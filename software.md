@@ -13,6 +13,7 @@ permalink: /software/
 + [**EpicTope**](https://github.com/FriedbergLab/Epictope) Epitope tagging is a technique enabling the identification, tracking, and purification of proteins _in vivo_. EpicTope helps experimentalists identify proter epitope insertion sites using CRISPR-cas9  
 
 #### CAFA Related software
++ [**LAFA**](https://functionbench.net) LAFA is a web server that continuously assesses protein function prediction models. The models are containerized and run on periodically updated benchmarks of protein function annotations compiled from several sources.
 + [**GOThresher**](https://github.com/FriedbergLab/GOThresher) Use this to remove annotation biases from Uniprot-GOA files. Usefule fro preparing rtaining sets for protein function prediction software.
 + [**CAFA_Benchmark**](https://github.com/CAFA-Challenge/CAFA_benchmark) Create benchmarks fro CAFA assessments using Uniprot-GOA files from different dates.
 + [**CAFA-swissprot**](https://github.com/CAFA-Challenge/cafa-swissprot) create an initial dataset for CAFA competitors from a Swissprot-Uniprot file.
