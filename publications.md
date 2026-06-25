@@ -9,7 +9,7 @@ For a full publication list, see [Google Scholar](https://scholar.google.com/cit
 
 #### Preprints
 
-+ Phan A, An Phan, Wang Y, Boadu F, Kulmanov M, Hoehndorf H, Cheng J, Radivojac P, **Friedberg I**
++ Phan A, An Phan, Wang Y, Boadu F, Cheng J, Radivojac P, **Friedberg I**
   LAFA: A Framework for Reproducible Longitudinal Assessment of Protein Function Annotation Models (2026) _arXiv_:2604.20782 [doi](https://doi.org/10.48550/arXiv.2604.20782)
 
 + Banerjee P, **Friedberg I**, Rued B, Eulenstein A PLUM Job: Peptide modeLs for Understanding and engineering antiMicrobial therapeutics (2026) _bioRxiv_ 2026.02.21.707214 [doi](https://doi.org/10.64898/2026.02.21.707214)
