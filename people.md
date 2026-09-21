@@ -20,6 +20,7 @@ In my spare time (ha!) I enjoy long distance running, old 70's cop shows, spaghe
 ![Parnal Joshi](/images/parnal_headshot4_4.jpg)
 
 I am a PhD candidate in the Bioinformatics and Computational Biology program. My research interests include protein function, ontologies, and text mining. I am an advocate of open science and reproducible research. In my free time, I enjoy traveling, cooking, and taking care of my 20 houseplants.
+-->
 
 #### Priyanka Banerjee (with Dr. Oliver Eulenstein)
 
@@ -27,7 +28,7 @@ I am a PhD candidate in the Bioinformatics and Computational Biology program. My
 
 I am a Ph.D. student in the computer science department. I find myself motivated to solve problems in biology and human health. My research interests include genomics, NLP and deep learning. My current research involves identifying genomic islands from whole genome sequences. I would like to expand my research into computational models for metagenomics data. I enjoy dancing (not sure if others enjoy watching me), painting and pointless conversations about life. 
 
--->
+
 
 #### An Phan (with Dr. Claus Kadelka)
 
