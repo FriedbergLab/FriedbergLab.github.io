@@ -20,3 +20,13 @@ permalink: /pics/
 ![image](./images/labpics/1000005206.jpg)
 
 ![image](./images/labpics/PXL_20240510_015515629.jpg)
+
+## Great Plains Bioinformatics 2026
+
+![image](./images/labpics/GPBio2026/an-gpbio.jpg)
+
+![image](./images/labpics/GPBio2026/lab-van.jpg)
+
+![image](./images/labpics/GPBio2026/pool-gpbio.jpg)
+
+![image](./images/labpics/GPBio2026/ryan-gpbio.jpg)
