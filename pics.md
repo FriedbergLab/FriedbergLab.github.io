@@ -30,3 +30,5 @@ permalink: /pics/
 ![image](./images/labpics/GPBio2026/pool-gpbio.jpg)
 
 ![image](./images/labpics/GPBio2026/ryan-gpbio.jpg)
+
+![image](./images/labpics/GPBio2026/kenna_poster.jpg)
